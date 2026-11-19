@@ -12,7 +12,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows-00C853?style=for-the-badge&logo=android&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Level-01%20%26%2002-7B2FBE?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
 <br/><br/>
 
