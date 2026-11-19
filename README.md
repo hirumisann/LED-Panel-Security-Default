@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1f3d,80:003366,100:00d4ff&height=280&section=header&text=LED%20Panel%20%26%20Videotron&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Research%20Notes&descAlignY=58&descSize=22&descColor=a8d8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:003366,100:050d1a&height=140&section=footer&fontSize=14&fontColor=a8d8ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
