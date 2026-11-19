@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:003366,100:050d1a&height=140&section=footer&fontSize=14&fontColor=a8d8ff&animation=fadeIn" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=850&height=52&lines=Dokumentasi+celah+keamanan+LED+panel+%26+videotron+komersial;Default+credentials+%E2%80%94+WiFi+AP+exploitation+%E2%80%94+Web+UI+access;NovaStar+%7C+Huidu+%7C+Xixun+%7C+Colorlight+%7C+PowerLED;Security+assessment+%26+hardening+untuk+sistem+LED)](https://git.io/typing-svg)
